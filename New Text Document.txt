@@ -1,0 +1,7 @@
+{
+  "address": "0x1318ab3d6d88f18e4f523d85a1c0f5c6da2d457a",
+  "msg": "its minev--",
+  "sig": "0x8ca14c5806229f296c4dccf11807788ce6bf61fe46467fc05a87ff7ffb6c9d89244b54172c28d72cb93767e7f9f03779c9902f7676278652a33e4da72a5d54321b",
+  "version": "3",
+  "signer": "MEW"
+}
